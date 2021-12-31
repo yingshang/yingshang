@@ -1,4 +1,4 @@
-<h1 align="center">大家好，欢迎来到我的主页👋</h1>
+<h1 align="center">HI👋</h1>
 
 
 <br>
